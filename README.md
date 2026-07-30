@@ -22,14 +22,7 @@ Com uma interface moderna inspirada em tendências como o *Glassmorphism*, ele c
 
 ## 🖼️ Prévia da Aplicação
 
-### Tela de Acesso
-![Tela de Login](./screenshots/login.png)
-
-### Dashboard & Frente de Caixa
-![Dashboard](./screenshots/dashboard.png)
-
-### Gestão de Produtos e Estoque
-![Gestão de Produtos](./screenshots/produtos.png)
+![Demonstração Animada do Sistema](./screenshots/demo.gif)
 
 ## ✨ Principais Funcionalidades
 
