@@ -68,7 +68,7 @@ Com uma interface moderna inspirada em tendências como o *Glassmorphism*, ele c
   <p>Este sistema foi concebido e arquitetado com foco extremo em UX/UI, performance e robustez.</p>
   <p>Cada detalhe foi pensado para facilitar o dia a dia do varejista, garantindo que a operação de venda e gestão seja rápida, fluida e muito agradável aos olhos, seja operando do computador ou do celular na palma da mão.</p>
   
-  <p><strong>Desenvolvido com 💙 para inovação no varejo</strong></p>
+  <p><strong>Desenvolvido para inovação no varejo</strong></p>
   
   <p>
     <a href="https://github.com/bersou">Perfil no GitHub</a> • 
