@@ -1,0 +1,7 @@
+node_modules/
+dist/
+assets/
+.env
+.DS_Store
+site.zip
+*.bak
