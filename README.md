@@ -22,7 +22,14 @@ Com uma interface moderna inspirada em tendências como o *Glassmorphism*, ele c
 
 ## 🖼️ Prévia da Aplicação
 
-![Tela Inicial Otimiza PDV](./screenshots/preview.png)
+### Tela de Acesso
+![Tela de Login](./screenshots/login.png)
+
+### Dashboard & Frente de Caixa
+![Dashboard](./screenshots/dashboard.png)
+
+### Gestão de Produtos e Estoque
+![Gestão de Produtos](./screenshots/produtos.png)
 
 ## ✨ Principais Funcionalidades
 
@@ -62,4 +69,16 @@ Com uma interface moderna inspirada em tendências como o *Glassmorphism*, ele c
    ```
 
 ---
-> Desenvolvido com foco na melhor experiência do usuário (UX) e em um design de alto padrão (UI).
+
+<div align="center">
+  <h3>✨ Sobre o Desenvolvimento ✨</h3>
+  <p>Este sistema foi concebido e arquitetado com foco extremo em UX/UI, performance e robustez.</p>
+  <p>Cada detalhe foi pensado para facilitar o dia a dia do varejista, garantindo que a operação de venda e gestão seja rápida, fluida e muito agradável aos olhos, seja operando do computador ou do celular na palma da mão.</p>
+  
+  <p><strong>Desenvolvido com 💙 para inovação no varejo</strong></p>
+  
+  <p>
+    <a href="https://github.com/bersou">Perfil no GitHub</a> • 
+    <a href="https://otimiza-pdv.netlify.app/">Acessar Aplicação ao Vivo</a>
+  </p>
+</div>
